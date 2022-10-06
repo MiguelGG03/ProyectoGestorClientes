@@ -17,6 +17,13 @@ pip install -r requirements.txt
 python run.py
 ```
 
+
+## Para probar el programa desde el terminal
+
+```bash
+python run_terminal.py
+```
+
 ## Para probar el programa en modo terminal
 
 ```bash
